@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me!"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -15,41 +15,64 @@ layouts_gallery:
 last_modified_at: 2019-04-03T15:15:09-04:00
 toc: true
 ---
-# About Me!
 Gyeonghun Kim
 =
-## 1. Education
-### Seoul National University, Republic of Korea (2016.03 - )
+### 1. Education
+#### Seoul National University, Republic of Korea (2016.03 - )
 * B. S. Physics, pending  
 * Double major in Scientific Coumputing, pending  
 * Minor in Mathematics, pending  (Maybe..?)
 
-### Sejong Science High School  (2014 - 2016)
+#### Sejong Science High School  (2014 - 2016)
 * Graduate one-year early. 
 
-### Cheongwon Middle School (2011 - 2013)
-### Sanggok Elementary School (2005 - 2010)
+#### Cheongwon Middle School (2011 - 2013)
+#### Sanggok Elementary School (2005 - 2010)
 
-## 2. Academic Experiences
-### Research Internship: Integrated Quantum System Lab. (SNU)
+### 2. Academic Experiences
+#### Research Internship: Integrated Quantum System Lab. (SNU)
 * Advisor: Dohun Kim
 * Jan 2019 - Present
 
-### Research Internship: Single Molecule Biophysics Lab. (SNU)
+#### Research Internship: Single Molecule Biophysics Lab. (SNU)
 * Advisor: Sungchul Hohng
 * Jan 2018 - Dec 2018
 
-### Teaching Assistance: Foundation of Physics 1 (SNU)
+#### Teaching Assistance: Foundation of Physics 1 (SNU)
 * 2018 Spring Semester
 
-### KIAS-SNU Theoritical Phyisics Winter Camp (KIAS)
+#### KIAS-SNU Theoritical Phyisics Winter Camp (KIAS)
 * Jan 4. 2019 - Dec 26, 2018
 * Project Topic: Calculate Exchange and Correlation energies of 3D electron gas with fluctuation-dissipation theorem.
 
-### Research Intership in UCL (expected)
+#### Research Intership in UCL (expected)
 * July 2019 - Sep 2019 
 
-## 3. Skills
-* Computation
+### 3. Skills
+* Programming
+  * C / C++
+    * C++14, 17
+    * deal.ii (Finite Element Method Library)
+    * BLAS, LAPACK, BOOST
+    * qt5 (GUI)
+    * MPI (Now I'm studying)
+    * CUDA (not fluent!)
+  * Python
+    * python3
+    * numpy, scipy, matplotlib, pandas
+    * sci-kit learn, nltk, tensorflow
+    * qutip (for Open Quantum Syetem simulation)
+    * qiskit (for Quantum Computing, Now I'm studying!)
+  * matlab, Octave
+  * C# / WPF (now I'm studying!)
+* Etc.
+  * Rhinoceros for CAD
+  * Latex for documenting
+  * git for version control
+* I want to study!
+  * Arduino
+  * Mathematica 
+  * Labview
+  * Illustrator / Photoshop
 
 ---
