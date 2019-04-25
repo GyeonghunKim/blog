@@ -59,8 +59,8 @@ Gyeonghun Kim
 
 ### 2. Academic Experiences
 > #### Research Internship: Integrated Quantum System Lab. (SNU)
-> #### * Advisor: Dohun Kim
-> #### * Jan 2019 - Present
+> <font size="2"> Advisor: Dohun Kim</font>   
+> <font size="2"> Jan 2019 - Present</font> 
 
 #### Research Internship: Single Molecule Biophysics Lab. (SNU)
 ##### * Advisor: Sungchul Hohng
