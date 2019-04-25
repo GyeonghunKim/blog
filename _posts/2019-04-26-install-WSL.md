@@ -16,9 +16,9 @@ author_profile: true
 comments: true
 
 gallery: 
-  - url: ./WSL_install/000.PNG
+  - url: /assets/images/WSL_install/000.PNG
     image_path: ./WSL_install/000.PNG
-    alt: "placeholder image 1"
+    alt: "placeholder image 0"
     title: "Image 1 title caption"
   - url: ./WSL_install/001.PNG
     image_path: ./WSL_install/001.PNG
