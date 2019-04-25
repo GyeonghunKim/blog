@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Gyeonghun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Physicist, Scientific Programmer in training. Interest: Quantum Computing, Quantum Optics, SMLM / SPT, NLP"
+  bio              : "Physicist, Scientific Programmer in training. \nInterest: Quantum Computing, Quantum Optics, \n SMLM / SPT, NLP"
   location         : "Seoul, Korea"
   email            : "aass98998@snu.ac.kr"
   links:
