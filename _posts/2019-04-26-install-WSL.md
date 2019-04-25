@@ -44,6 +44,18 @@ gallery5:
     image_path: /assets/images/WSL_install/004.PNG
     alt: "placeholder image "
     title: "Image 1 title caption"
+
+gallery6: 
+  - url: /assets/images/WSL_install/005.PNG
+    image_path: /assets/images/WSL_install/005.PNG
+    alt: "placeholder image "
+    title: "Image 1 title caption"
+
+gallery7: 
+  - url: /assets/images/WSL_install/006.PNG
+    image_path: /assets/images/WSL_install/006.PNG
+    alt: "placeholder image "
+    title: "Image 1 title caption"
 ---
 
 ## 1. 설치 가능 조건
@@ -85,5 +97,31 @@ WSL의 설치과정은 크게 세 단계로 나누어집니다. 첫 번째 단�
 
 ## 3. WSL 기본 사용법
 
+WSL환경에서 기존의 우분투 shell환경과 다른 것이 있다면 윈도우 파일에 접근이 가능하다는 것 입니다. 물론 그 외에도 사소한 차이가 있긴 합니다만, 일반적으로 관련 에러메시지와 WSL을 함께 검색하면 해결 방법이 구글에 나와 있습니다. 
+WSL환경을 사용하는 것이 기존의 VMware를 사용하는 것에 비해 어떤 점이 나아졌냐고 한다면 가장 큰 것은 windows파일에 직접 접근이 가능하다는 것 입니다. 
 
+### 1. 윈도우 파일에 접근하기
+설치한 Ubuntu shell에서 윈도우 파일에 접근하기 위해서는 아래와 같이 **/mnt**를 이용하여 접근할 수 있습니다. 
 
+> /mnt/c/Users/[유저이름]/[윈도우 상의 디렉토리 이어서]
+
+예를 들어서 유저 이름이 aass98998인 계정의 바탕화면에 접속하고 싶다면 아래와 같이 디렉토리를 이동할 수 있다. 
+
+> cd /mnt/c/Users/aass98998/Desktop/
+
+그러나 항상 mnt를 이용하여 긴 디렉토리 명을 적는 것은 매우 귀찮고 이를 해결하기 위해서 **ln -s**를 이용한다. 
+
+> ln -s "/mnt/c/Users/aass98998/Desktop/somefolder/" /home/ghkim/somefolder
+
+이 결과를 테스트 하기 위해서 윈도우 바탕화면에 somefolder 폴더를 만들고 그 안에 test.txt 파일을 아래와 같이 만들었다. 
+
+{% include gallery id="gallery6" %}
+
+그 위에 Ubuntu shell에서 
+
+> cd /home/ghkim/somefolder  
+> vim test.txt
+
+를 실행하면 아래와 같이 성공적으로 윈도우 디렉토리 파일에 접근한 것을 확인할 수 있다. 
+
+{% include gallery id="gallery7" %}
