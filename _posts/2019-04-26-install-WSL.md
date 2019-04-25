@@ -15,14 +15,19 @@ toc_sticky: true
 author_profile: true
 comments: true
 
-gallery: 
+gallery1: 
   - url: /assets/images/WSL_install/000.PNG
     image_path: /assets/images/WSL_install/000.PNG
     alt: "placeholder image "
     title: "Image 1 title caption"
 
+gallery2: 
+  - url: /assets/images/WSL_install/001.PNG
+    image_path: /assets/images/WSL_install/001.PNG
+    alt: "placeholder image "
+    title: "Image 1 title caption"
 ---
-{% include gallery1 caption="This is a sample gallery with **Markdown support**." %}
+
 ## 1. 설치 가능 조건
 WSL을 설치하기 위해서는 64비트 PC, Windows 10 1607 이상이면 가능합니다. 본인 컴퓨터의 윈도우 버전을 확인하기 위해서는 아래의 경로로 들어가면 됩니다. 
 
@@ -30,8 +35,7 @@ WSL을 설치하기 위해서는 64비트 PC, Windows 10 1607 이상이면 가�
 
 그러면 아래와 같이 사양을 확인할 수 있습니다.   
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/WSL_install/000.PNG)
-
+{% include gallery id="gallery1" %}
 
 
 ## 2. WSL설치하기 
@@ -40,7 +44,7 @@ WSL의 설치과정은 크게 세 단계로 나누어집니다. 첫 번째 단�
 ### 1. 윈도우에서 Linux용 하위 기능 켜기
 윈도우에서 Linux용 하위 기능을 켜기 위해서는 "Windows 기능 켜기/끄기"를 검색해서 들어가면 됩니다. 그 후에 아래 그림과 같은 "Linux용 Windows 하위 시스템"을 체크 하면 됩니다. 이제 첫 단계가 끝났습니다!
 
-![Windows 하위 시스템](./WSL_install/001.PNG)
+{% include gallery id="gallery2" %}
 
 ### 2. Window store에서 ubuntu 설치하기
 이후에 window store에 접속해서 ubuntu를 설치하면 됩니다. 아래 그림과 같은 아이콘을 실행한 뒤, 무료 > 설치 를 클릭해 설치를 하면 됩니다. 
