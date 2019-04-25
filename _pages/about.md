@@ -71,6 +71,4 @@ toc: true
 > ### Research Intership in UCL (expected)
 > <font size="3"> July 2019 - Sep 2019 </font> 
 
-
-
 ---
