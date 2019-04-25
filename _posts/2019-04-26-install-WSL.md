@@ -105,15 +105,15 @@ WSL환경을 사용하는 것이 기존의 VMware를 사용하는 것에 비해 
 
 > /mnt/c/Users/[유저이름]/[윈도우 상의 디렉토리 이어서]
 
-예를 들어서 유저 이름이 aass98998인 계정의 바탕화면에 접속하고 싶다면 아래와 같이 디렉토리를 이동할 수 있다. 
+예를 들어서 유저 이름이 aass98998인 계정의 바탕화면에 접속하고 싶다면, 아래와 같이 디렉토리를 이동할 수 있습니다. 
 
 > cd /mnt/c/Users/aass98998/Desktop/
 
-그러나 항상 mnt를 이용하여 긴 디렉토리 명을 적는 것은 매우 귀찮고 이를 해결하기 위해서 **ln -s**를 이용한다. 
+그러나 항상 mnt를 이용하여 긴 디렉토리 명을 적는 것은 매우 귀찮고 이를 해결하기 위해서 **ln -s**를 이용해야합니다. 
 
 > ln -s "/mnt/c/Users/aass98998/Desktop/somefolder/" /home/ghkim/somefolder
 
-이 결과를 테스트 하기 위해서 윈도우 바탕화면에 somefolder 폴더를 만들고 그 안에 test.txt 파일을 아래와 같이 만들었다. 
+이 결과를 테스트 하기 위해서 윈도우 바탕화면에 somefolder 폴더를 만들고 그 안에 test.txt 파일을 아래와 같이 만들었습니다. 
 
 {% include gallery id="gallery6" %}
 
@@ -122,6 +122,6 @@ WSL환경을 사용하는 것이 기존의 VMware를 사용하는 것에 비해 
 > cd /home/ghkim/somefolder  
 > vim test.txt
 
-를 실행하면 아래와 같이 성공적으로 윈도우 디렉토리 파일에 접근한 것을 확인할 수 있다. 
+를 실행하면 아래와 같이 성공적으로 윈도우 디렉토리 파일에 접근한 것을 확인할 수 있습니다. 
 
 {% include gallery id="gallery7" %}
