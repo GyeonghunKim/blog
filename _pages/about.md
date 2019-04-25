@@ -18,32 +18,34 @@ toc: true
 Gyeonghun Kim
 =
 ### 0. Skills
-* Programming
-  * C / C++
-    * C++14, 17
-    * deal.ii (Finite Element Method Library)
-    * BLAS, LAPACK, BOOST
-    * qt5 (GUI)
-    * MPI (Now I'm studying)
-    * CUDA (not fluent!)
-  * Python
-    * python3
-    * numpy, scipy, matplotlib, pandas
-    * sci-kit learn, nltk, tensorflow
-    * qutip (for Open Quantum Syetem simulation)
-    * qiskit (for Quantum Computing, Now I'm studying!)
-  * matlab, Octave
-  * C# / WPF (now I'm studying!)
-* Etc.
-  * Rhinoceros for CAD
-  * Latex for documenting
-  * git for version control
-* I want to study!
-  * Arduino
-  * Mathematica 
-  * Labview
-  * Illustrator / Photoshop
-  * javascripts, html, and all techniques for web development
+> ### Programming
+> * C / C++
+>    * C++14, 17
+>    * deal.ii (Finite Element Method Library)
+>    * BLAS, LAPACK, BOOST
+>    * qt5 (GUI)
+>    * MPI (Now I'm studying)
+>    * CUDA (not fluent!)
+>  * Python
+>    * python3
+>    * numpy, scipy, matplotlib, pandas
+>    * sci-kit learn, nltk, tensorflow
+>    * qutip (for Open Quantum Syetem simulation)
+>    * qiskit (for Quantum Computing, Now I'm studying!)
+>  * matlab, Octave
+>  * C# / WPF (now I'm studying!)
+
+> ### Etc.
+>   * Rhinoceros for CAD
+>   * Latex for documenting
+>   * git for version control
+
+> ### I want to study!
+>   * Arduino
+>   * Mathematica 
+>   * Labview
+>   * Illustrator / Photoshop
+>   * javascripts, html, and all techniques for web development
 
 ### 1. Education
 > ### Seoul National University, South Korea (2016.03 - )
