@@ -2,6 +2,16 @@
 permalink: /about/
 title: "About Me!"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+layouts_gallery:
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/mm-layout-splash.png
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.png
+    image_path: /assets/images/mm-layout-single-meta.png
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/mm-layout-archive.png
+    image_path: /assets/images/mm-layout-archive.png
+    alt: "archive layout example"
 last_modified_at: 2019-04-03T15:15:09-04:00
 toc: true
 ---
@@ -37,34 +47,30 @@ Gyeonghun Kim
 
 ### 1. Education
 #### Seoul National University, Republic of Korea (2016.03 - )
-* B. S. Physics, pending  
-* Double major in Scientific Coumputing, pending  
-* Minor in Mathematics, pending  (Maybe..?)
+##### * B. S. Physics, pending  
+##### * Double major in Scientific Coumputing, pending  
+##### * Minor in Mathematics, pending  (Maybe..?)
 
 #### Sejong Science High School  (2014 - 2016)
-* Graduate one-year early. 
+##### * Graduate one-year early. 
 
 #### Cheongwon Middle School (2011 - 2013)
 #### Sanggok Elementary School (2005 - 2010)
 
 ### 2. Academic Experiences
 #### Research Internship: Integrated Quantum System Lab. (SNU)
-* Advisor: Dohun Kim
-* Jan 2019 - Present
-
+##### * Advisor: Dohun Kim
+##### * Jan 2019 - Present
 #### Research Internship: Single Molecule Biophysics Lab. (SNU)
-* Advisor: Sungchul Hohng
-* Jan 2018 - Dec 2018
-
+##### * Advisor: Sungchul Hohng
+##### * Jan 2018 - Dec 2018
 #### Teaching Assistance: Foundation of Physics 1 (SNU)
-* 2018 Spring Semester
-
+##### * 2018 Spring Semester
 #### KIAS-SNU Theoritical Phyisics Winter Camp (KIAS)
-* Jan 4. 2019 - Dec 26, 2018
-* Project Topic: Calculate Exchange and Correlation energies of 3D electron gas with fluctuation-dissipation theorem.
-
+##### * Jan 4. 2019 - Dec 26, 2018
+##### * Project Topic: Calculate Exchange and Correlation energies of 3D electron gas with fluctuation-dissipation theorem.
 #### Research Intership in UCL (expected)
-* July 2019 - Sep 2019 
+##### * July 2019 - Sep 2019 
 
 
 
