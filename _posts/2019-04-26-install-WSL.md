@@ -24,7 +24,7 @@ WSL을 설치하기 위해서는 64비트 PC, Windows 10 1607 이상이면 가�
 
 그러면 아래와 같이 사양을 확인할 수 있습니다.   
 
-![설정시스템정보]({{ "_posts/WSL_install/000.PNG" | absolute_url })
+![설정시스템정보]({{ "_posts/WSL_install/000.PNG" | absolute_url }})
 
 
 ## 2. WSL설치하기 
