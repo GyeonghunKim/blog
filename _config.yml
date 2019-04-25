@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Physicist, Scientific Programmer in training. \n Interest: Quantum Computing, Quantum Optics, \n SMLM / SPT, NLP"
   location         : "Seoul, Korea"
-
+  email            : #
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -283,6 +283,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      
   - scope:
       path: "_pages"
       type: pages
