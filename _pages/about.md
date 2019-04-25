@@ -16,7 +16,7 @@ last_modified_at: 2019-04-03T15:15:09-04:00
 toc: true
 ---
 
-### 0. Skills
+# 0. Skills
 > ### Programming
 > * C / C++
 >    * C++14, 17
@@ -46,7 +46,7 @@ toc: true
 >   * Illustrator / Photoshop
 >   * javascripts, html, and all techniques for web development
 
-### 1. Education
+# 1. Education
 > ### Seoul National University, South Korea (2016.03 - )
 > <font size="3"> B. S. Physics, pending <br />Double major in Scientific Coumputing, pending <br /> Minor in Mathematics, pending  (Maybe..?) </font> 
 
@@ -55,7 +55,7 @@ toc: true
 
 > ### Cheongwon Middle School (2011 - 2013) <br /> Sanggok Elementary School (2005 - 2010)
 
-### 2. Academic Experiences
+# 2. Academic Experiences
 > ### Research Internship: Integrated Quantum System Lab. (SNU)
 > <font size="3"> Advisor: Dohun Kim <br />Jan 2019 - Present</font>
 
