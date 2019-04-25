@@ -22,7 +22,7 @@ gallery:
     title: "Image 1 title caption"
 
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery1 caption="This is a sample gallery with **Markdown support**." %}
 ## 1. 설치 가능 조건
 WSL을 설치하기 위해서는 64비트 PC, Windows 10 1607 이상이면 가능합니다. 본인 컴퓨터의 윈도우 버전을 확인하기 위해서는 아래의 경로로 들어가면 됩니다. 
 
@@ -30,6 +30,7 @@ WSL을 설치하기 위해서는 64비트 PC, Windows 10 1607 이상이면 가�
 
 그러면 아래와 같이 사양을 확인할 수 있습니다.   
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/WSL_install/000.PNG)
 
 
 
