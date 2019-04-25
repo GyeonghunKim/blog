@@ -131,5 +131,6 @@ WSL shell을 이용하여 코딩을 진행해도 되지만, 매우 벌거롭습�
 
 [CLion과 WSL을 이용한 윈도우에서 우분투 환경으로 C++ 코딩하기](https://gyeonghunkim.github.io/blog/%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95/WSL-Clion/)
 
+이건 아직 못썼습니다 ㅜㅜ  
 [Jupyter notebook과 WSL을 이용한 윈도우에서 우분투 환경으로 Python 코딩하기]()
 
