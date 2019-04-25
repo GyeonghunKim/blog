@@ -125,3 +125,11 @@ WSL환경을 사용하는 것이 기존의 VMware를 사용하는 것에 비해 
 를 실행하면 아래와 같이 성공적으로 윈도우 디렉토리 파일에 접근한 것을 확인할 수 있습니다. 
 
 {% include gallery id="gallery7" %}
+
+### 2. WSL과 윈도우 어플리케이션 연결
+WSL shell을 이용하여 코딩을 진행해도 되지만, 매우 벌거롭습니다. 그래서 원활한 코딩을 위해서 윈도우 프로그램과 SSH로 연동을 하면 쉽게 사용할 수 있는 경우가 있습니다. C++의 경우는 ecilipse나 CLion을 사용할 수 있고, Python은 Jupyter web server를 이용하여 진행하게 됩니다.이에 관해서는 다른 글에서 다루었습니다. 
+
+[CLion과 WSL을 이용한 윈도우에서 우분투 환경으로 C++ 코딩하기](https://gyeonghunkim.github.io/blog/%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95/WSL-Clion/)
+
+[Jupyter notebook과 WSL을 이용한 윈도우에서 우분투 환경으로 Python 코딩하기]()
+
