@@ -46,32 +46,29 @@ Gyeonghun Kim
   * javascripts, html, and all techniques for web development
 
 ### 1. Education
-#### Seoul National University, Republic of Korea (2016.03 - )
-##### * B. S. Physics, pending  
-##### * Double major in Scientific Coumputing, pending  
-##### * Minor in Mathematics, pending  (Maybe..?)
+> ### Seoul National University, Republic of Korea (2016.03 - )
+> <font size="2"> B. S. Physics, pending <br />Double major in Scientific Coumputing, pending <br /> Minor in Mathematics, pending  (Maybe..?) </font> 
 
-#### Sejong Science High School  (2014 - 2016)
-##### * Graduate one-year early. 
+> ### Sejong Science High School  (2014 - 2016)
+> <font size="2"> Graduate one-year early.  </font> 
 
-#### Cheongwon Middle School (2011 - 2013)
-#### Sanggok Elementary School (2005 - 2010)
+> ### Cheongwon Middle School (2011 - 2013) <br /> Sanggok Elementary School (2005 - 2010)
 
 ### 2. Academic Experiences
-> #### Research Internship: Integrated Quantum System Lab. (SNU)
-> <font size="2"> Advisor: Dohun Kim</font>  <br />
-> <font size="2"> Jan 2019 - Present</font> 
+> ### Research Internship: Integrated Quantum System Lab. (SNU)
+> <font size="3"> Advisor: Dohun Kim <br />Jan 2019 - Present</font>
 
-#### Research Internship: Single Molecule Biophysics Lab. (SNU)
-##### * Advisor: Sungchul Hohng
-##### * Jan 2018 - Dec 2018
-#### Teaching Assistance: Foundation of Physics 1 (SNU)
-##### * 2018 Spring Semester
-#### KIAS-SNU Theoritical Phyisics Winter Camp (KIAS)
-##### * Jan 4. 2019 - Dec 26, 2018
-##### * Project Topic: Calculate Exchange and Correlation energies of 3D electron gas with fluctuation-dissipation theorem.
-#### Research Intership in UCL (expected)
-##### * July 2019 - Sep 2019 
+> ### Research Internship: Single Molecule Biophysics Lab. (SNU)
+> <font size="3"> Advisor: Sungchul Hohng <br />Jan 2018 - Dec 2018</font> 
+
+> ### Teaching Assistance: Foundation of Physics 1 (SNU)
+> <font size="3"> 2018 Spring Semester</font> 
+
+> ### KIAS-SNU Theoritical Phyisics Winter Camp (KIAS)
+> <font size="3"> Jan 4. 2019 - Dec 26, 2018 <br />Project Topic: Calculate Exchange and Correlation energies of 3D electron gas with fluctuation-dissipation theorem.</font> 
+
+> ### Research Intership in UCL (expected)
+> <font size="3"> July 2019 - Sep 2019 </font> 
 
 
 
