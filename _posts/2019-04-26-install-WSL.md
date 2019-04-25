@@ -26,6 +26,24 @@ gallery2:
     image_path: /assets/images/WSL_install/001.PNG
     alt: "placeholder image "
     title: "Image 1 title caption"
+
+gallery3: 
+  - url: /assets/images/WSL_install/002.PNG
+    image_path: /assets/images/WSL_install/002.PNG
+    alt: "placeholder image "
+    title: "Image 1 title caption"
+
+gallery4: 
+  - url: /assets/images/WSL_install/003.PNG
+    image_path: /assets/images/WSL_install/003.PNG
+    alt: "placeholder image "
+    title: "Image 1 title caption"
+
+gallery5: 
+  - url: /assets/images/WSL_install/004.PNG
+    image_path: /assets/images/WSL_install/004.PNG
+    alt: "placeholder image "
+    title: "Image 1 title caption"
 ---
 
 ## 1. 설치 가능 조건
@@ -49,7 +67,7 @@ WSL의 설치과정은 크게 세 단계로 나누어집니다. 첫 번째 단�
 ### 2. Window store에서 ubuntu 설치하기
 이후에 window store에 접속해서 ubuntu를 설치하면 됩니다. 아래 그림과 같은 아이콘을 실행한 뒤, 무료 > 설치 를 클릭해 설치를 하면 됩니다. 
 
-![Ubuntu 사진](./WSL_install/002.PNG)
+{% include gallery id="gallery3" %}
 
 ### 3. Ubuntu 계정 만들기
 위의 설치가 마무리 되었다면 설치 된 응용프로그램 Ubuntu를 실행합니다. 그러면 다시 설치중이니 기다리라는 메시지가 나옵니다. 
@@ -58,11 +76,11 @@ WSL의 설치과정은 크게 세 단계로 나누어집니다. 첫 번째 단�
 
 수 분을 기다린 뒤에 아래 이미지와 같이 계정을 등록하라는 문구가 나오면 user id와 passwd, passwd 확인을 순차로 입력하면 됩니다. 
 
-![Ubuntu 사진](./WSL_install/003.PNG)
+{% include gallery id="gallery4" %}
 
 그러면 설치가 모두 끝났습니다!
 
-![Ubuntu 사진](./WSL_install/004.PNG)
+{% include gallery id="gallery5" %}
 
 
 ## 3. WSL 기본 사용법
