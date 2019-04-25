@@ -24,7 +24,8 @@ WSL을 설치하기 위해서는 64비트 PC, Windows 10 1607 이상이면 가�
 
 그러면 아래와 같이 사양을 확인할 수 있습니다.   
 
-![설정시스템정보](./WSL_install/000.PNG)
+![설정시스템정보]({{ "_posts/WSL_install/000.PNG" | absolute_url })
+
 
 ## 2. WSL설치하기 
 WSL의 설치과정은 크게 세 단계로 나누어집니다. 첫 번째 단계는 WSL의 설치를 위해서 윈도우 기능을 켜는 것, 두 번째 단계는 window store에서 ubuntu를 설치하는 것, 그리고 마지막은 설치 된 ubuntu를 실행해 계정을 만드는 것 입니다. 
