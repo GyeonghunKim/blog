@@ -15,6 +15,16 @@ toc_sticky: true
 author_profile: true
 comments: true
 
+gallery: 
+  - url: /_posts/WSL_install/000.PNG
+    image_path: /_posts/WSL_install/000.PNG
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /_posts/WSL_install/001.PNG
+    image_path: /_posts/WSL_install/001.PNG
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+
 ---
 
 ## 1. 설치 가능 조건
