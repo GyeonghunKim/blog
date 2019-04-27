@@ -23,8 +23,21 @@ author_profile: true
 comments: true
 
 gallery1: 
-  - url: /assets/images/WSL_install/007.PNG
-    image_path: /assets/images/WSL_install/007.PNG
+  - url: /assets/images/WSL_install/001.PNG
+    image_path: /assets/images/WSL_install/001.PNG
+    alt: "placeholder image "
+    title: "Image 1 title caption"
+
+gallery2: 
+  - url: /assets/images/WSL_install/002.PNG
+    image_path: /assets/images/WSL_install/002.PNG
+    alt: "placeholder image "
+    title: "Image 1 title caption"
+
+
+gallery3: 
+  - url: /assets/images/WSL_install/003.PNG
+    image_path: /assets/images/WSL_install/003.PNG
     alt: "placeholder image "
     title: "Image 1 title caption"
 
