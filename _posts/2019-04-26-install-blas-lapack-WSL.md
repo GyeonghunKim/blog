@@ -23,21 +23,21 @@ author_profile: true
 comments: true
 
 gallery1: 
-  - url: /assets/images/WSL_install/001.PNG
-    image_path: /assets/images/WSL_install/001.PNG
+  - url: /assets/images/BLAS, LAPACK install/001.PNG
+    image_path: /assets/images/BLAS, LAPACK install/001.PNG
     alt: "placeholder image "
     title: "Image 1 title caption"
 
 gallery2: 
-  - url: /assets/images/WSL_install/002.PNG
-    image_path: /assets/images/WSL_install/002.PNG
+  - url: /assets/images/BLAS, LAPACK install/002.PNG
+    image_path: /assets/images/BLAS, LAPACK install/002.PNG
     alt: "placeholder image "
     title: "Image 1 title caption"
 
 
 gallery3: 
-  - url: /assets/images/WSL_install/003.PNG
-    image_path: /assets/images/WSL_install/003.PNG
+  - url: /assets/images/BLAS, LAPACK install/003.PNG
+    image_path: /assets/images/BLAS, LAPACK install/003.PNG
     alt: "placeholder image "
     title: "Image 1 title caption"
 
@@ -178,4 +178,15 @@ int main()
 
 앞의 extern "C"로 시작하는 세 줄은 외부 라이브러리를 가져오는 C++의 문법입니다. C++ 컴파일러에게 C 스타일의 linkage를 사용하라고 말해주는 내용인데, 단순하게 함수를 가져온다고 생각해도 사용하는데는 문제 없는 것 같습니다. ddot_는 BLAS에서 가져온 내적을 하는 함수이고, dgetrf_와 dgetrs_는 각각 LAPACK에서 가져온 LU decomposition을 하는 함수와 그 결과를 이용하여 Ax = b를 푸는 함수입니다. 
 
+실행 결과는 아래와 같습니다. 잘 나오는 것을 확인할 수 있습니다. 
 
+
+```
+/mnt/c/Users/aass98998/CLionProjects/BLASLAPACKTEST/cmake-build-debug/BLASLAPACKTEST
+*********** this is from BLAS_TEST ****************
+ The dot product is: 17.770000 
+*********** this is from LAPACK_TEST ****************
+solution is:[11.031, -8.72881, ]
+
+Process finished with exit code 0
+```
