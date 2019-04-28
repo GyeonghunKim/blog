@@ -1,6 +1,6 @@
 ---
 title: "WSL, CLion 환경에서 BLAS, LAPACK 설치하기"
-categories: 환경구축
+categories: WSL 환경 설정
 tags:
   - WSL
   - Window10
